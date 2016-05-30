@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ArmStrong&#39;s Homepage</title>
+    <link>http://jy9387.github.io/</link>
+    <description>Recent content on ArmStrong&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jiang Yuan</copyright>
+    <lastBuildDate>Mon, 27 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jy9387.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs (CVPR2016)</title>
+      <link>http://jy9387.github.io/publication/deep_skeleton/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jy9387.github.io/publication/deep_skeleton/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello!</title>
+      <link>http://jy9387.github.io/post/hello_world/</link>
+      <pubDate>Thu, 26 May 2016 11:21:00 +0000</pubDate>
+      
+      <guid>http://jy9387.github.io/post/hello_world/</guid>
+      <description>
+
+&lt;p&gt;Glad to see you all! This is a test.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Example of code highlighting
+print(&amp;quot;Hello World!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;an-example-mathematical-expression-rendered-from-rm-latex-math-code:a37038ea9c0a627175646a70bd3fc060&#34;&gt;An example mathematical expression rendered from $\rm \LaTeX$ math code&lt;/h2&gt;
+
+&lt;p&gt;LaTeX:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-TeX&#34;&gt;$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$&lt;/p&gt;
+
+&lt;h3 id=&#34;an-example-of-a-table-created-using-markdown:a37038ea9c0a627175646a70bd3fc060&#34;&gt;An example of a table created using &lt;em&gt;Markdown&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Code:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-Markdown&#34;&gt;| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `hugo`            | Build your website.            |
+| `hugo server -w`   | View your website.             |
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Build your website.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo server -w&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;View your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://jy9387.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jy9387.github.io/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;short-bio:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Short Bio.&lt;/h1&gt;
+
+&lt;p&gt;Yuan Jiang is pursuing his graduate study, supervised by Dr. Wei Shen, at the School of Communication and Information Engineering, Shanghai University. His research interests include computer vision, pattern recognition, machine learning and deep learning. &lt;a href=&#34;http://o7zt4a6os.bkt.clouddn.com/cv_JiangYuan.pdf&#34;&gt;Here&lt;/a&gt; is the CV.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shape Recognition by Bag of Skeleton-associated Contour Parts (PRL2016)</title>
+      <link>http://jy9387.github.io/publication/bscp/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jy9387.github.io/publication/bscp/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digits Recognition via CNN</title>
+      <link>http://jy9387.github.io/project/digit/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://jy9387.github.io/project/digit/</guid>
+      <description>&lt;p&gt;Detecting digits on the photographs of gas meters using a Convolutional Neural Network. The photos of a gas meter can be taken by a mini camera fixed in front of the meter and then delivered to our server. We plan to adopt the Fully Convolutional Network (FCN) to process these photos and read the digits on them automaticly. Finally people can obtain the digits of the gas meter by downloading the data from our server.&lt;/p&gt;
+
+&lt;p&gt;The codes for recognizing digits on the photos are shared at github &lt;a href=&#34;https://github.com/SHUCV/digit&#34;&gt;(code)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Object Skeleton Extraction in Natural Scenes</title>
+      <link>http://jy9387.github.io/project/deep-skeleton/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://jy9387.github.io/project/deep-skeleton/</guid>
+      <description>&lt;p&gt;Extracting object skeleton using a unique Fully Convolutional Network. We build a new dataset, named sk506 &lt;a href=&#34;http://7xocv2.dl1.z0.glb.clouddn.com/sk506.tar.gz&#34;&gt;(download)&lt;/a&gt; for object skeleton detection in natural images. Our insight focuses on the relationship between receptive fields and skeleton scales, resulting in outperforming existing methods on mainstream public datasets.&lt;/p&gt;
+
+&lt;p&gt;The research paper &amp;ldquo;Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs&amp;rdquo; &lt;a href=&#34;ttp://arxiv.org/abs/1603.09446v2&#34;&gt;(pdf)&lt;/a&gt; has been accepted by CVPR 2016. The proposed approach achieves the state-of-the-art performance at two main datasets including the noval sk506 dataset. And we share all codes at github &lt;a href=&#34;https://github.com/zeakey/DeepSkeleton&#34;&gt;(code)&lt;/a&gt;, managed by Kai Zhao. Just try it!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

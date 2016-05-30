@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on ArmStrong&#39;s Homepage</title>
+    <link>http://jy9387.github.io/home/</link>
+    <description>Recent content in Homes on ArmStrong&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jiang Yuan</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jy9387.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://jy9387.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jy9387.github.io/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;short-bio:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Short Bio.&lt;/h1&gt;
+
+&lt;p&gt;Yuan Jiang is pursuing his graduate study, supervised by Dr. Wei Shen, at the School of Communication and Information Engineering, Shanghai University. His research interests include computer vision, pattern recognition, machine learning and deep learning. &lt;a href=&#34;http://o7zt4a6os.bkt.clouddn.com/cv_JiangYuan.pdf&#34;&gt;Here&lt;/a&gt; is the CV.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

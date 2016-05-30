@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on ArmStrong&#39;s Homepage</title>
+    <link>http://jy9387.github.io/project/</link>
+    <description>Recent content in Projects on ArmStrong&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Jiang Yuan</copyright>
+    <lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://jy9387.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Digits Recognition via CNN</title>
+      <link>http://jy9387.github.io/project/digit/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://jy9387.github.io/project/digit/</guid>
+      <description>&lt;p&gt;Detecting digits on the photographs of gas meters using a Convolutional Neural Network. The photos of a gas meter can be taken by a mini camera fixed in front of the meter and then delivered to our server. We plan to adopt the Fully Convolutional Network (FCN) to process these photos and read the digits on them automaticly. Finally people can obtain the digits of the gas meter by downloading the data from our server.&lt;/p&gt;
+
+&lt;p&gt;The codes for recognizing digits on the photos are shared at github &lt;a href=&#34;https://github.com/SHUCV/digit&#34;&gt;(code)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Object Skeleton Extraction in Natural Scenes</title>
+      <link>http://jy9387.github.io/project/deep-skeleton/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://jy9387.github.io/project/deep-skeleton/</guid>
+      <description>&lt;p&gt;Extracting object skeleton using a unique Fully Convolutional Network. We build a new dataset, named sk506 &lt;a href=&#34;http://7xocv2.dl1.z0.glb.clouddn.com/sk506.tar.gz&#34;&gt;(download)&lt;/a&gt; for object skeleton detection in natural images. Our insight focuses on the relationship between receptive fields and skeleton scales, resulting in outperforming existing methods on mainstream public datasets.&lt;/p&gt;
+
+&lt;p&gt;The research paper &amp;ldquo;Object Skeleton Extraction in Natural Images by Fusing Scale-associated Deep Side Outputs&amp;rdquo; &lt;a href=&#34;ttp://arxiv.org/abs/1603.09446v2&#34;&gt;(pdf)&lt;/a&gt; has been accepted by CVPR 2016. The proposed approach achieves the state-of-the-art performance at two main datasets including the noval sk506 dataset. And we share all codes at github &lt;a href=&#34;https://github.com/zeakey/DeepSkeleton&#34;&gt;(code)&lt;/a&gt;, managed by Kai Zhao. Just try it!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
